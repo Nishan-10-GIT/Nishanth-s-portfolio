@@ -1,8 +1,8 @@
-# 👋 Hey there, I’m Nishanth R
+# 👋 Hey there, I’m Nishanthan R
 
-🎓 2nd year Electrical & Electronics Engineering student at Easwari Engineering College  
-🎨 Tech meets creativity: PCB Design | Video Editing | Photography | Public Speaking  
-🚀 Passionate about building real-world solutions and growing 1% every single day
+🎓 3rd year Electrical & Electronics Engineering student at Easwari Engineering College  
+🎨 PCB Design | Video Editing | Photography | Public Speaking | WebDev | Embedded Systems Design
+🚀 My goal in life is to be good at everything that I do... To be a "Jack Of All Trades"
 
 ---
 
@@ -10,10 +10,10 @@
 
 - **PCB Design**: KiCad, Altium Designer  
 - **IoT & Embedded**: Arduino, ESP32, NRF24L01  
-- **Programming**: C, Python, Embedded C  
-- **Video Editing**: Adobe Premiere Pro, DaVinci Resolve  
-- **Design & Docs**: Canva, Figma, MS Office  
-- **Other**: Photography, Scriptwriting, Storyboarding
+- **Programming**: C, Python, Embedded C, Node.js, Assembly  
+- **Video Editing**: Adobe Premiere Pro, After Effects, DaVinci Resolve, Capcut,   
+- **Design & Docs**: Canva, Photoshop, Figma, MS Office  
+- **Other**: Photography, Scriptwriting, Poem Writing
 
 ---
 
@@ -30,9 +30,6 @@
 
 ## 🚧 Featured Projects
 
-### 🔹 Smart Traffic Management System (IoT + AI)
-> Real-time emergency vehicle prioritization & traffic prediction using sensors and ML.  
-
 ### 🔹 Transformer Health Monitoring System
 > Monitors temperature, voltage, current and predicts failures with ML.  
 
@@ -44,11 +41,10 @@
 
 ---
 
-## 🛠️ Other Cool Things I Do
+## 🛠️ See My work...
 
 - 🎞️ Cinematic video edits, Photographs : **https://www.instagram.com/nish.clicks.pics/**
-- ✒️ Customized poetry and literature : @ **https://www.instagram.com/poems_by_vn/?next=%2F**  
-- 🧠 Daily personal development + journaling habit  
+- ✒️ Customized poetry and literature : @ **https://www.instagram.com/poems_by_vn/**   
 - 📸 Capturing stories through my lens  
 
 ---
@@ -56,7 +52,7 @@
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nishanthan-r5035/)  
-- [Instagram - Edits](https://www.instagram.com/poems_by_vn/?next=%2F)  
+- [Instagram - Edits](https://www.instagram.com/poems_by_vn/)  
 - [GitHub](https://github.com/Nishan-10-GIT)  
 - Email: nishailabu32@gmail.com  
 
